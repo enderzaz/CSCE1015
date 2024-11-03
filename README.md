@@ -4,4 +4,4 @@ Assignment repository for UNT CSCE1015
 bsf0063
 
 ## Favorite Professor
-$(Dr._Jacob_Hochstetler)
+Dr. Jacob Hochstetler
